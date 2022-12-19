@@ -8,8 +8,8 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ngocdh383/react-native-mini-app-template.git",
-        "baseUrl": "https://github.com/ngocdh383/react-native-mini-app-template"
+        "url": "git+https://github.com/ngocphu2810/react-native-mini-app-template.git",
+        "baseUrl": "https://github.com/ngocphu2810/react-native-mini-app-template"
     },
     "keywords": [
         "react-native",
